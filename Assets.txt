@@ -1,0 +1,5 @@
+Main Color
+
+CreatiQ Yellow: #FFC50C
+CreatiQ Black: #1B1C1E
+CreatiQ Orange: #FB5A1B
